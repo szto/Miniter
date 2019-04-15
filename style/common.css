@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 24px;
+  ling-height: .8;
+  text-align: center;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
